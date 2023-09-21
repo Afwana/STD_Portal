@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "Email": "hod2023@gmail.com",
+      "active": "1",
+      "username": "AdminHead",
+      "password": "studentadm23"
+    },
+    {
+      "id": "3",
+      "name": "Shehna Sherin",
+      "Email": "shehnakv@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Shamiya",
+      "Email": "kcsham@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "Mahi Al Akhnas",
+      "Email": "mahi14@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Afsal Rahman",
+      "Email": "afsalbachu@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "name": "Robert",
+      "Email": "robintatam@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "8",
+      "name": "Dony",
+      "Email": "donywilsen@gmail.com",
+      "active": "0"
+    }
+  ]
+}
